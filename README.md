@@ -1,16 +1,22 @@
-## Hi there 👋
+<h2 align="center">Oii, eu sou a Bruna Monteiro</h2>
+<p align="center">
+Estudante de Análise e Desenvolvimento de Sistemas <br>
+FATEC - Brasil <br>
+Desenvolvimento web front-end
+</p>
+<div align="center">
+  <img height="30" width="40"
+       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img height="30" width="40"
+       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img height="30" width="40"
+       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</div>
 
-<!--
-**BrunaAMonteiro/BrunaAMonteiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+<h3 align="center">Contato</h3>
+<div align="center">
+  <a href="linkedin.com/in/bruna-monteiro-03b5a7307" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+</div>
