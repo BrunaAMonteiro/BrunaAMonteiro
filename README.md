@@ -2,7 +2,7 @@
 <p align="center">
 Estudante de Análise e Desenvolvimento de Sistemas <br>
 FATEC - Brasil <br>
-Desenvolvimento web front-end
+ front-end
 </p>
 <div align="center">
   <img height="30" width="40"
