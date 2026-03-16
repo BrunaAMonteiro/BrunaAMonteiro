@@ -1,4 +1,4 @@
-<h2 align="center">Oii, eu sou a Bruna Monteiro</h2>
+<h2 align="center"> Bruna Monteiro</h2>
 <p align="center">
 Estudante de Análise e Desenvolvimento de Sistemas <br>
 FATEC - Brasil <br>
