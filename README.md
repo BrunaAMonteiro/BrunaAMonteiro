@@ -1,7 +1,7 @@
 <h2 align="center"> Bruna Monteiro</h2>
 <p align="center">
 Estudante de Análise e Desenvolvimento de Sistemas <br>
-FATEC Ourinhos - Brasil <br>
+FATEC Ourinhos - SP <br>
  front-end
 </p>
 <div align="center">
