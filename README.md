@@ -2,7 +2,7 @@
 <p align="center">
 Estudante de Análise e Desenvolvimento de Sistemas <br>
 FATEC Ourinhos - SP <br>
- front-end
+ dev front-end
 </p>
 <div align="center">
   <img height="30" width="40"
