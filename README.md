@@ -18,7 +18,7 @@ FATEC Ourinhos - SP <br>
 ---
 <h3 align="center">Contato</h3>
 <div align="center">
-  <a href="https://www.linkedin.com/in/bruna-monteiro-03b5a7307/" target="_blank">
+  <a href="https://www.linkedin.com/in/bruna-monteiro-03b5a7307/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </div>
